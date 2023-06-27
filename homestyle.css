@@ -1,0 +1,75 @@
+.body{
+    margin:0px;
+    background-color: rgb(132, 114, 114);
+}
+.navbar{
+   
+ 
+   background-color: #090580;
+    margin-left: 45px;
+    border: 6px solid blue;
+   
+
+}
+.contacts{
+    justify-content: center;
+    
+}
+img{
+   height:100px;
+   padding:20px;
+}
+.heading{
+    padding-top:5px;
+    color:#E1ECC8;
+    text-align: center;
+   
+    font-weight: 600;
+    font-size: 60px;
+    padding-bottom: 20px;
+    
+}
+.head-side{
+    color: azure;
+    margin-left:400px;
+    font-style: italic;
+    font-size:14px;
+    font-weight: 20px;
+    padding-bottom: 10px;
+    position: relative;
+}
+.me{
+    margin-left: 45px;
+    border: 6px solid rgb(172, 172, 205);
+}
+ul{
+    font-size:20px;
+}
+.abt{
+    border: 6px solid blue;
+    border-radius: 50px;
+    margin-left:20px;
+    margin-right:20px;
+      font-style: italic;
+      font-size:20px;
+}
+li{
+    padding-bottom: 30px;
+}
+.skills{
+    margin-top:50px;
+    margin-left: 20px;
+    font-style: italic;
+    font-size:20px;
+    width:45%;
+    background-color:rgba(224, 220, 113, 0.892);
+    border-radius: 50px;
+    border: 6px solid  rgb(211, 223, 222);
+}
+
+.skills.h{
+    position :absolute;
+}
+.lar{
+    initial-letter: 50px;
+}
